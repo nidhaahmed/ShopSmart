@@ -50,10 +50,13 @@ This project develops a **product recommendation system** based on customer purc
 ---
 
 ### **Dataset**
+- Dataset used is "Amazon sales dataset" from Kaggle.
+- This dataset is having the data of 1K+ Amazon Product's Ratings and Reviews.
+- [Dataset link](https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset)
 - The dataset consists of various attributes such as product categories, prices, ratings, and reviews.  
 - Preprocessed to handle anomalies like non-standard characters in numerical columns, and engineered features like weighted ratings.
 
----
+--- 
 
 ### **Workflow**
 
